@@ -1,3 +1,4 @@
+// https://youtu.be/zS658iOqsEA
 let juego;
 let fuente, fuente2;
 let imagenes = [];
@@ -89,3 +90,4 @@ function mouseClicked() {
 function keyPressed() {
   juego.teclaPresionada();
 }
+
